@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157962083182",
+    "firebase_url": "https://connecting-india-a708f.firebaseio.com",
+    "project_id": "connecting-india-a708f",
+    "storage_bucket": "connecting-india-a708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157962083182:android:036e91eeec38f211",
+        "android_client_info": {
+          "package_name": "com.sptech.yt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157962083182-c5n77isnssv6acisaoosr7hfmepb8660.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sptech.yt",
+            "certificate_hash": "263cc3f9466e1849cdc4299d8128d82c348d1f3f"
+          }
+        },
+        {
+          "client_id": "157962083182-49l127kltatvj9glbar2tdsqbslpdtd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpzpYHi_LUCCyvcFgSeJ9eRclmM_Hs6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157962083182-49l127kltatvj9glbar2tdsqbslpdtd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

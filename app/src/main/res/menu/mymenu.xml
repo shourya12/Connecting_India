@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/facebook"
+            android:title="Facebook"
+            android:icon="@drawable/facebook">
+
+        </item>
+        <item
+            android:id="@+id/twitter"
+            android:title="Twitter"
+            android:icon="@drawable/twitter">
+
+        </item>
+        <item
+            android:id="@+id/gmail"
+            android:title="Google+"
+            android:icon="@drawable/fg">
+    </item>
+
+
+    </group>
+    <group>
+        <item
+            android:id="@+id/about"
+            android:title="About"
+            android:icon="@drawable/pp">
+
+        </item>
+    </group>
+
+</menu>
